@@ -1,0 +1,9 @@
+C:\Users\Emily\source\repos\PracticeStrings\PracticeStrings\bin\Debug\PracticeStrings.exe.config
+C:\Users\Emily\source\repos\PracticeStrings\PracticeStrings\bin\Debug\PracticeStrings.exe
+C:\Users\Emily\source\repos\PracticeStrings\PracticeStrings\bin\Debug\PracticeStrings.pdb
+C:\Users\Emily\source\repos\PracticeStrings\PracticeStrings\obj\Debug\PracticeStrings.csprojAssemblyReference.cache
+C:\Users\Emily\source\repos\PracticeStrings\PracticeStrings\obj\Debug\PracticeStrings.Form1.resources
+C:\Users\Emily\source\repos\PracticeStrings\PracticeStrings\obj\Debug\PracticeStrings.Properties.Resources.resources
+C:\Users\Emily\source\repos\PracticeStrings\PracticeStrings\obj\Debug\PracticeStrings.csproj.GenerateResource.cache
+C:\Users\Emily\source\repos\PracticeStrings\PracticeStrings\obj\Debug\PracticeStrings.exe
+C:\Users\Emily\source\repos\PracticeStrings\PracticeStrings\obj\Debug\PracticeStrings.pdb
